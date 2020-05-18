@@ -7,7 +7,7 @@ The Daily Deals app displays a list of deals and discounts on various products. 
 ```
 cd server
 npm install
-node server/app.js
+node app.js
 ```
 - for client
 ```
