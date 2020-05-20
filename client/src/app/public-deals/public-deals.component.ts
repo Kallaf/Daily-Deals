@@ -2,7 +2,7 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Subscription } from 'rxjs';
 import { Deal } from '../deal';
 // We haven't defined these services yet
-import { AuthService } from '../auth.service';
+import { AuthService } from '../auth/auth.service';
 import { DealService } from '../deal.service';
 
 @Component({
